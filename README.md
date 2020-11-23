@@ -1,2 +1,2 @@
-# NLP_Lab1
-Stack Overflow questions classification by quality
+# NLP Laboratory works
+1) Stack Overflow questions classification by quality
